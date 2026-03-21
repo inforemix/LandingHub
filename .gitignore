@@ -1,0 +1,10 @@
+WQ/node_modules/
+WQ/.next/
+WQ/.vercel/
+WQ/.netlify/
+WQ/dist/
+WQ/build/
+WQ/.env.local
+WQ/.env.*.local
+*.log
+.DS_Store
